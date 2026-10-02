@@ -1,10 +1,10 @@
 :root {
-  --bg: #0c0e12;
-  --ink: #f4f1ea;
-  --muted: rgba(244, 241, 234, 0.72);
-  --gold: #d4b07a;
-  --gold-dim: #e8d5b0;
-  --line: rgba(232, 213, 176, 0.16);
+  --bg: #070B10;
+  --ink: #F2F5F8;
+  --muted: rgba(242, 245, 248, 0.72);
+  --gold: #7DD3FC;
+  --gold-dim: #BAE6FD;
+  --line: rgba(125, 211, 252, 0.18);
   --card: rgba(255, 255, 255, 0.04);
 }
 * { box-sizing: border-box; }
@@ -92,6 +92,6 @@ footer {
   margin-top: 56px;
   padding-top: 20px;
   border-top: 1px solid var(--line);
-  color: rgba(244, 241, 234, 0.45);
+  color: rgba(242, 245, 248, 0.45);
   font-size: 13px;
 }
